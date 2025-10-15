@@ -22,10 +22,19 @@ Atuo na criação de **sistemas empresariais**, **integrações**, **APIs** e **
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 </div>
+
+---
+
+## 🏅 Certificações e Cursos
+
+[![Microsoft Certified](https://img.shields.io/badge/Microsoft-Certificação-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/pt-br/users/brunooliveira-7536/credentials/e9d84292e16825a9?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
+
+[![Udemy - C# Completo](https://img.shields.io/badge/Udemy-C%23%20Completo-orange?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/UC-13f49268-9481-4808-b2ce-44ff8d2ea81c/)  
+
+[![Udemy - Python Developer](https://img.shields.io/badge/Udemy-Python%20Developer-blue?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/UC-9da435b0-25ec-4e0f-b737-f66909475976/)
 
 ---
 
