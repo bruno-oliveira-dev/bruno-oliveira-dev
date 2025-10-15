@@ -33,10 +33,10 @@ Atuo na criação de **sistemas empresariais**, **integrações**, **APIs** e **
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| 🎫 **Sistema de Vendas por WhatsApp** | Sistema que gerencia vendas de ingressos e pedidos diretamente pelo WhatsApp, integrando automação de mensagens e banco de dados. | .NET, SQL Server, Twilio API |
 | 📦 **WMS .NET 8** | Sistema de gerenciamento de estoque moderno e modular, com arquitetura limpa e escalável. | .NET 8, SQL Server |
 | 🧮 **Cartonização Inteligente** | Algoritmo que seleciona automaticamente a melhor caixa para cada pedido, otimizando o uso de espaço e custo de envio. | C#, .NET |
-| 🤖 **Chatbot Empresarial (Protótipo)** | Projeto experimental com RAG e autenticação JWT para controle de acesso a conteúdos empresariais. | Python, LangChain |
+| 🤖 **Chatbot Empresarial (Protótipo em desenvolvimento)** | Projeto experimental com RAG e autenticação JWT para controle de acesso a conteúdos empresariais. | Python, LangChain |
+| 🎫 **Sistema de Vendas por WhatsApp** | Sistema que gerencia vendas de ingressos e pedidos diretamente pelo WhatsApp, integrando automação de mensagens e banco de dados. | n8n, Postgres, EvolutionAPI, OpenAI LLM |
 
 ---
 
